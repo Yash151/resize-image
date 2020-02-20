@@ -71,5 +71,5 @@ def get_resized_image(photo_data):
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
 
