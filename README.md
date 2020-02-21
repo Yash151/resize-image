@@ -23,3 +23,7 @@ Run the application
 To use the applciation for resizing your image, access the below url in your browser:
 
     http://localhost:5000
+
+## Error Messages
+
+The application takes only images as input, hence if you provide any other format file, the application will thorw an error stating please provide Images Only
